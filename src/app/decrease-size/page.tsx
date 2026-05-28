@@ -82,7 +82,7 @@ export default function DecreaseSizePage() {
         
         {/* Page header */}
         <div style={{ textAlign: 'center', marginBottom: 48 }}>
-          <div className="section-label" style={{ display: 'inline-flex' }}>📉 Image Size Reducer in KB</div>
+          <div className="section-label" style={{ display: 'inline-flex' }}>📉 Compress Image</div>
           <h1 style={{ fontSize: 'clamp(32px, 5vw, 56px)', fontWeight: 900, color: '#f9fafb', letterSpacing: '-0.03em', marginBottom: 16 }}>
             Image Size Reducer in KB<br /><span className="gradient-text">Reduce Photo Size Online</span>
           </h1>

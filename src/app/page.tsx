@@ -12,7 +12,7 @@ const tools = [
   {
     href: '/decrease-size',
     icon: '📉',
-    title: 'Decrease KB Size',
+    title: 'Compress Image',
     desc: 'Reduce image file size in KB or MB without quality loss. Set exact target sizes for email, portals, or web uploads.',
     badge: 'Most Popular',
     badgeColor: '#6366f1',
@@ -22,7 +22,7 @@ const tools = [
   {
     href: '/increase-size',
     icon: '📈',
-    title: 'Increase KB Size',
+    title: 'Increase Img Size',
     desc: 'Safely increase your image file size to meet minimum form upload limits. Enter target KB size to pad files instantly.',
     badge: 'New Tool',
     badgeColor: '#10b981',
@@ -164,10 +164,10 @@ export default function HomePage() {
           {/* CTAs */}
           <div className="animate-in-delay-3" style={{ display: 'flex', gap: 16, justifyContent: 'center', flexWrap: 'wrap', marginBottom: 48 }}>
             <Link href="/decrease-size" className="btn-primary" style={{ padding: '14px 32px', fontSize: 16, textDecoration: 'none' }}>
-              📉 Decrease KB Size
+              📉 Compress Image
             </Link>
             <Link href="/increase-size" className="btn-secondary" style={{ padding: '14px 32px', fontSize: 16, textDecoration: 'none' }}>
-              📈 Increase KB Size
+              📈 Increase Img Size
             </Link>
           </div>
 

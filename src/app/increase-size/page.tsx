@@ -80,7 +80,7 @@ export default function IncreaseSizePage() {
         
         {/* Page header */}
         <div style={{ textAlign: 'center', marginBottom: 48 }}>
-          <div className="section-label" style={{ display: 'inline-flex' }}>📈 Increase KB Size</div>
+          <div className="section-label" style={{ display: 'inline-flex' }}>📈 Increase Img Size</div>
           <h1 style={{ fontSize: 'clamp(32px, 5vw, 56px)', fontWeight: 900, color: '#f9fafb', letterSpacing: '-0.03em', marginBottom: 16 }}>
             Increase Image File Size<br /><span className="gradient-text">To Target KB & MB</span>
           </h1>

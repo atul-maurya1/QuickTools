@@ -3,8 +3,8 @@ import Link from 'next/link'
 import { Zap, ExternalLink, MessageSquare, Heart } from 'lucide-react'
 
 const tools = [
-  { href: '/decrease-size', label: 'Decrease KB Size' },
-  { href: '/increase-size', label: 'Increase KB Size' },
+  { href: '/decrease-size', label: 'Compress Image' },
+  { href: '/increase-size', label: 'Increase Img Size' },
   { href: '/image-converter', label: 'Image Converter' },
   { href: '/resize-image', label: 'Image Resizer' },
   { href: '/scale-image', label: 'Image Scaler' },

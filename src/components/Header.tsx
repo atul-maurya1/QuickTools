@@ -4,8 +4,8 @@ import { useState } from 'react'
 import { Zap, Menu, X } from 'lucide-react'
 
 const navLinks = [
-  { href: '/decrease-size', label: 'Decrease KB' },
-  { href: '/increase-size', label: 'Increase KB' },
+  { href: '/decrease-size', label: 'Compress' },
+  { href: '/increase-size', label: 'Increase Img' },
   { href: '/image-converter', label: 'Convert' },
   { href: '/resize-image', label: 'Resize' },
   { href: '/scale-image', label: 'Scale' },
