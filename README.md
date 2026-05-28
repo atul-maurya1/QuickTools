@@ -65,7 +65,7 @@ Start the local server:
 ```bash
 npm run dev
 ```
-Open [http://localhost:3000](http://localhost:3000) in your browser to view the application.
+Open [https://quick-tools-blond.vercel.app/](https://quick-tools-blond.vercel.app/) in your browser to view the application.
 
 ### 3. Build Production Bundle
 Compile and optimize the project for deployment:
